@@ -1,0 +1,10 @@
+const regexpSingleLine = /^.*$/;
+/**
+ * Determine whether the string is single line.
+ * @param {string} item Item that need to determine.
+ * @returns {boolean} Determine result.
+ */
+export function isStringSingleLine(item: string): boolean {
+	return regexpSingleLine.test(item);
+}
+export default isStringSingleLine;
