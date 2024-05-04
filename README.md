@@ -75,7 +75,7 @@ An ES (JavaScript & TypeScript) module to determine whether the string is single
 
 *This module does not require any permission.*
 
-## 🧩 API
+## 🧩 APIs
 
 - ```ts
   function isStringSingleLine(item: string): boolean;
@@ -88,7 +88,7 @@ An ES (JavaScript & TypeScript) module to determine whether the string is single
 > - [Deno CLI `deno doc`](https://deno.land/manual/tools/documentation_generator)
 > - [JSR](https://jsr.io/@hugoalh/is-string-singleline)
 
-## ✍️ Example
+## ✍️ Examples
 
 - ```ts
   isStringSingleLine(
