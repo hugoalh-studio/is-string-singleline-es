@@ -1,4 +1,4 @@
-import { assertEquals } from "STD/assert/assert_equals.ts";
+import { assertEquals } from "STD/assert/assert-equals";
 import { isStringSingleLine } from "./mod.ts";
 const sample1 = `Wisi sed et at vero eos nostrud volutpat sed stet dignissim sit sanctus in eros.
 Et laoreet odio sanctus ea.
