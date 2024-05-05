@@ -25,28 +25,14 @@ An ES (JavaScript & TypeScript) module to determine whether the string is single
 
 ### #️⃣ Registries Identifier
 
-<table><tbody align="left">
-<tr>
-<th>JSR</th>
-<td width="100%">
-
-```
-@hugoalh/is-string-singleline
-```
-
-</td>
-</tr>
-<tr>
-<th>NPM</th>
-<td width="100%">
-
-```
-@hugoalh/is-string-singleline
-```
-
-</td>
-</tr>
-</tbody></table>
+- **JSR:**
+  ```
+  @hugoalh/is-string-singleline
+  ```
+- **NPM:**
+  ```
+  @hugoalh/is-string-singleline
+  ```
 
 > **ℹ️ Note**
 >
@@ -55,7 +41,7 @@ An ES (JavaScript & TypeScript) module to determine whether the string is single
 
 ### #️⃣ Remote Import Paths
 
-- Via GitHub Raw (Require Tag)
+- **GitHub Raw:** (Require Tag)
   ```
   https://raw.githubusercontent.com/hugoalh-studio/is-string-singleline-es/${Tag}/mod.ts
   ```

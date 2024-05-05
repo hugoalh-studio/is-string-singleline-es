@@ -1,6 +1,6 @@
 {
 	"name": "@hugoalh/is-string-singleline",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "A module to determine whether the string is single line.",
 	"keywords": [
 		"is",
