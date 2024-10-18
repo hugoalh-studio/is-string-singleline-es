@@ -66,13 +66,11 @@ An ES (JavaScript & TypeScript) module to determine whether the string is single
 ## ✍️ Examples
 
 - ```ts
-  isStringSingleLine(
-    `Wisi sed et at vero eos nostrud volutpat sed stet dignissim sit sanctus in eros.
+  isStringSingleLine(`Wisi sed et at vero eos nostrud volutpat sed stet dignissim sit sanctus in eros.
   Et laoreet odio sanctus ea.
   Sea in dolores diam tincidunt labore sea stet vero dolor ut est.
   At aliquyam diam facilisis lorem et takimata et volutpat eros erat ipsum velit labore sed ea illum.
-  Dolor lorem sed et volutpat exerci gubergren gubergren tempor quis ea eirmod eos ut dolor autem ipsum accumsan.`
-  );
+  Dolor lorem sed et volutpat exerci gubergren gubergren tempor quis ea eirmod eos ut dolor autem ipsum accumsan.`);
   //=> false
   ```
 - ```ts
