@@ -21,15 +21,15 @@ await invokeDenoNodeJSTransformer({
 			"singleline",
 			"string"
 		],
-		homepage: "https://github.com/hugoalh-studio/is-string-singleline-es#readme",
+		homepage: "https://github.com/hugoalh/is-string-singleline-es#readme",
 		bugs: {
-			url: "https://github.com/hugoalh-studio/is-string-singleline-es/issues"
+			url: "https://github.com/hugoalh/is-string-singleline-es/issues"
 		},
 		license: "MIT",
 		author: "hugoalh",
 		repository: {
 			type: "git",
-			url: "git+https://github.com/hugoalh-studio/is-string-singleline-es.git"
+			url: "git+https://github.com/hugoalh/is-string-singleline-es.git"
 		},
 		scripts: {
 		},
