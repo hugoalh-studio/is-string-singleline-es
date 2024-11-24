@@ -59,7 +59,7 @@ An ES (JavaScript & TypeScript) module to determine whether the string is single
   ```
 
 > [!NOTE]
-> - For the prettier documentation, can visit via:
+> - For the full or prettier documentation, can visit via:
 >   - [Deno CLI `deno doc`](https://docs.deno.com/runtime/reference/cli/documentation_generator/)
 >   - [JSR](https://jsr.io/@hugoalh/is-string-singleline)
 
